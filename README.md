@@ -24,8 +24,8 @@ This repository demonstrates **two** approaches to scraping [Check Point’s adv
 1. **Clone the repo**:
    
 ```bash
-git clone https://github.com/YourUser/your-repo.git
-cd your-repo
+git clone https://github.com/alshawwaf/cp_cve_to_json.git
+cd cp_cve_to_json
 ```
 
 3. **Install dependencies (for both scripts)**:
