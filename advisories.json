@@ -1,0 +1,1968 @@
+[
+  {
+    "severity": "Critical",
+    "date_published": "25 Feb 2025",
+    "date_updated": "25 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1314",
+    "source": "",
+    "cves": [
+      "CVE-2024-46045",
+      "CVE-2024-8225",
+      "CVE-2024-8227"
+    ],
+    "description": "Tenda Multiple Products Stack-Based Buffer Overflow (CVE-2024-46045; CVE-2024-8225; CVE-2024-8227)"
+  },
+  {
+    "severity": "High",
+    "date_published": "24 Feb 2025",
+    "date_updated": "24 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0053",
+    "source": "",
+    "cves": [
+      "CVE-2025-0110"
+    ],
+    "description": "Palo Alto Networks PAN-OS OpenConfig Plugin Command Injection (CVE-2025-0110)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "24 Feb 2025",
+    "date_updated": "24 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1421",
+    "source": "",
+    "cves": [
+      "CVE-2024-29974"
+    ],
+    "description": "Zyxel NAS326 firmware Remote Code Execution (CVE-2024-29974)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "24 Feb 2025",
+    "date_updated": "24 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1419",
+    "source": "",
+    "cves": [
+      "CVE-2024-29976"
+    ],
+    "description": "Zyxel NAS326 firmware Information Disclosure (CVE-2024-29976)"
+  },
+  {
+    "severity": "High",
+    "date_published": "24 Feb 2025",
+    "date_updated": "24 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0047",
+    "source": "",
+    "cves": [
+      "CVE-2025-24893"
+    ],
+    "description": "XWiki.org XWiki Code Injection (CVE-2025-24893)"
+  },
+  {
+    "severity": "High",
+    "date_published": "13 Feb 2025",
+    "date_updated": "24 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0038",
+    "source": "",
+    "cves": [
+      "CVE-2025-0108"
+    ],
+    "description": "Palo Alto Networks PAN-OS Authentication Bypass (CVE-2025-0108)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Feb 2025",
+    "date_updated": "23 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0045",
+    "source": "",
+    "cves": [
+      "CVE-2025-1340"
+    ],
+    "description": "TOTOLINK X18 Stack Overflow (CVE-2025-1340)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "23 Feb 2025",
+    "date_updated": "23 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1303",
+    "source": "",
+    "cves": [
+      "CVE-2024-52544"
+    ],
+    "description": "Lorex 2K Indoor Wi-Fi Security Camera Buffer Overflow (CVE-2024-52544)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "23 Feb 2025",
+    "date_updated": "23 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1403",
+    "source": "",
+    "cves": [
+      "CVE-2024-34200",
+      "CVE-2024-34201",
+      "CVE-2024-34203",
+      "CVE-2024-34207",
+      "CVE-2024-34209",
+      "CVE-2024-34212",
+      "CVE-2024-34213",
+      "CVE-2024-34215"
+    ],
+    "description": "TOTOLINK CP450 Buffer Overflow (CVE-2024-34200; CVE-2024-34201; CVE-2024-34203; CVE-2024-34207; CVE-2024-34209; CVE-2024-34212; CVE-2024-34213; CVE-2024-34215)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Feb 2025",
+    "date_updated": "23 Feb 2025",
+    "checkpoint_reference": "CPAI-2023-2006",
+    "source": "",
+    "cves": [
+      "CVE-2023-51146",
+      "CVE-2023-51147"
+    ],
+    "description": "TRENDnet TEW-821DAP Buffer Overflow (CVE-2023-51146; CVE-2023-51147)"
+  },
+  {
+    "severity": "High",
+    "date_published": "19 Feb 2025",
+    "date_updated": "23 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1401",
+    "source": "",
+    "cves": [
+      "CVE-2024-40890"
+    ],
+    "description": "Zyxel Multiple Products Command Injection (CVE-2024-40890)"
+  },
+  {
+    "severity": "High",
+    "date_published": "30 Jan 2025",
+    "date_updated": "23 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0020",
+    "source": "",
+    "cves": [
+      "CVE-2025-0105"
+    ],
+    "description": "Palo Alto Networks Expedition Arbitrary File Deletion (CVE-2025-0105)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "20 Feb 2025",
+    "date_updated": "20 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1410",
+    "source": "",
+    "cves": [
+      "CVE-2024-10811",
+      "CVE-2024-13159",
+      "CVE-2024-13160",
+      "CVE-2024-13161"
+    ],
+    "description": "Ivanti Endpoint Manager Path Traversal (CVE-2024-10811; CVE-2024-13159; CVE-2024-13160; CVE-2024-13161)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "20 Feb 2025",
+    "date_updated": "20 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1404",
+    "source": "",
+    "cves": [
+      "CVE-2024-34204",
+      "CVE-2024-34206",
+      "CVE-2024-34210"
+    ],
+    "description": "TOTOLINK CP450 Command Injection (CVE-2024-34204; CVE-2024-34206; CVE-2024-34210)"
+  },
+  {
+    "severity": "High",
+    "date_published": "20 Feb 2025",
+    "date_updated": "20 Feb 2025",
+    "checkpoint_reference": "CPAI-2021-2296",
+    "source": "",
+    "cves": [
+      "CVE-2021-27030"
+    ],
+    "description": "Autodesk FBX Review Directory Traversal (CVE-2021-27030)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "9 Feb 2025",
+    "date_updated": "20 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1360",
+    "source": "",
+    "cves": [
+      "CVE-2024-39288",
+      "CVE-2024-39359"
+    ],
+    "description": "Wavlink AC3000 Buffer Overflow (CVE-2024-39288; CVE-2024-39359)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "19 Feb 2025",
+    "date_updated": "19 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0043",
+    "source": "",
+    "cves": [
+      "CVE-2014-0130",
+      "CVE-2015-3035",
+      "CVE-2016-4523",
+      "CVE-2019-20085",
+      "CVE-2020-5410",
+      "CVE-2023-2825",
+      "CVE-2023-32315",
+      "CVE-2023-34843",
+      "CVE-2023-34990",
+      "CVE-2023-35843",
+      "CVE-2023-35844",
+      "CVE-2023-37607",
+      "CVE-2023-41266",
+      "CVE-2024-57727"
+    ],
+    "description": "Web Servers Directory Traversal (CVE-2014-0130; CVE-2015-3035; CVE-2016-4523; CVE-2019-20085; CVE-2020-5410; CVE-2023-2825; CVE-2023-32315; CVE-2023-34843; CVE-2023-34990; CVE-2023-35843; CVE-2023-35844; CVE-2023-37607; CVE-2023-41266; CVE-2024-57727)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "2 Feb 2025",
+    "date_updated": "19 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1351",
+    "source": "",
+    "cves": [
+      "CVE-2024-53704"
+    ],
+    "description": "SonicWall SonicOS Authentication Bypass (CVE-2024-53704)"
+  },
+  {
+    "severity": "High",
+    "date_published": "18 Feb 2025",
+    "date_updated": "18 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1394",
+    "source": "",
+    "cves": [
+      "CVE-2024-37569",
+      "CVE-2024-37570"
+    ],
+    "description": "Mitel 6869i Command Injection (CVE-2024-37569; CVE-2024-37570)"
+  },
+  {
+    "severity": "High",
+    "date_published": "18 Feb 2025",
+    "date_updated": "18 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1388",
+    "source": "",
+    "cves": [
+      "CVE-2024-48456"
+    ],
+    "description": "Netis Multiple Products Remote Code Execution (CVE-2024-48456)"
+  },
+  {
+    "severity": "High",
+    "date_published": "18 Feb 2025",
+    "date_updated": "18 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1372",
+    "source": "",
+    "cves": [
+      "CVE-2024-57357"
+    ],
+    "description": "TP-Link TL-WPA 8630 Command Injection (CVE-2024-57357)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "17 Feb 2025",
+    "date_updated": "17 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0042",
+    "source": "",
+    "cves": [
+      "CVE-2025-25064"
+    ],
+    "description": "Zimbra Collaboration SQL Injection (CVE-2025-25064)"
+  },
+  {
+    "severity": "High",
+    "date_published": "17 Feb 2025",
+    "date_updated": "17 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0041",
+    "source": "",
+    "cves": [
+      "CVE-2025-1094"
+    ],
+    "description": "PostgreSQL SQL Injection (CVE-2025-1094)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "17 Feb 2025",
+    "date_updated": "17 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1402",
+    "source": "",
+    "cves": [
+      "CVE-2024-12356"
+    ],
+    "description": "BeyondTrust Multiple Products Command Injection (CVE-2024-12356)"
+  },
+  {
+    "severity": "High",
+    "date_published": "17 Feb 2025",
+    "date_updated": "17 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0036",
+    "source": "",
+    "cves": [
+      "CVE-2025-24367"
+    ],
+    "description": "Cacti Group Cacti CRLF Injection (CVE-2025-24367)"
+  },
+  {
+    "severity": "High",
+    "date_published": "17 Feb 2025",
+    "date_updated": "17 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1384",
+    "source": "",
+    "cves": [
+      "CVE-2024-23333"
+    ],
+    "description": "LDAP Account Manager Remote Code Execution (CVE-2024-23333)"
+  },
+  {
+    "severity": "High",
+    "date_published": "16 Feb 2025",
+    "date_updated": "16 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1385",
+    "source": "",
+    "cves": [
+      "CVE-2024-48455",
+      "CVE-2024-48457"
+    ],
+    "description": "Netis Multiple Products Authentication Bypass (CVE-2024-48455; CVE-2024-48457)"
+  },
+  {
+    "severity": "High",
+    "date_published": "16 Feb 2025",
+    "date_updated": "16 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0031",
+    "source": "",
+    "cves": [
+      "CVE-2025-21385"
+    ],
+    "description": "Microsoft Purview Server-Side Request Forgery (CVE-2025-21385)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "16 Feb 2025",
+    "date_updated": "16 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1377",
+    "source": "",
+    "cves": [
+      "CVE-2024-54502"
+    ],
+    "description": "Apple Multiple Products Use After Free (CVE-2024-54502)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "16 Feb 2025",
+    "date_updated": "16 Feb 2025",
+    "checkpoint_reference": "CPAI-2023-1999",
+    "source": "",
+    "cves": [
+      "CVE-2023-45249"
+    ],
+    "description": "Acronis Cyber Infrastructure Authentication Bypass (CVE-2023-45249)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1393",
+    "source": "",
+    "cves": [
+      "CVE-2024-9916"
+    ],
+    "description": "HuangDou UTCMS Command Injection (CVE-2024-9916)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1386",
+    "source": "",
+    "cves": [
+      "CVE-2024-39363"
+    ],
+    "description": "Wavlink AC3000 Cross-Site Scripting (CVE-2024-39363)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0033",
+    "source": "",
+    "cves": [
+      "CVE-2025-25181"
+    ],
+    "description": "Advantive VeraCore SQL Injection (CVE-2025-25181)"
+  },
+  {
+    "severity": "High",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1383",
+    "source": "",
+    "cves": [
+      "CVE-2024-45518"
+    ],
+    "description": "Zimbra Collaboration Server-Side Request Forgery (CVE-2024-45518)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1382",
+    "source": "",
+    "cves": [
+      "CVE-2024-57968"
+    ],
+    "description": "Advantive VeraCore Arbitrary File Upload (CVE-2024-57968)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1367",
+    "source": "",
+    "cves": [
+      "CVE-2024-55947"
+    ],
+    "description": "Gogs Path Traversal (CVE-2024-55947)"
+  },
+  {
+    "severity": "High",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1366",
+    "source": "",
+    "cves": [
+      "CVE-2024-47008"
+    ],
+    "description": "Ivanti Avalanche Server-Side Request Forgery (CVE-2024-47008)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "13 Feb 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2018-2894",
+    "source": "",
+    "cves": [
+      "CVE-2018-11552"
+    ],
+    "description": "NCH AXON PBX Cross-Site Scripting (CVE-2018-11552)"
+  },
+  {
+    "severity": "High",
+    "date_published": "30 Jan 2025",
+    "date_updated": "13 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1345",
+    "source": "",
+    "cves": [
+      "CVE-2024-41710"
+    ],
+    "description": "Mitel Multiple Products Command Injection (CVE-2024-41710)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "12 Feb 2025",
+    "date_updated": "12 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0035",
+    "source": "MicrosoftCVE-2025-21376",
+    "cves": [
+      "CVE-2025-21376"
+    ],
+    "description": "Microsoft Windows LDAP Remote Code Execution (CVE-2025-21376)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "12 Feb 2025",
+    "date_updated": "12 Feb 2025",
+    "checkpoint_reference": "CPAI-2023-1998",
+    "source": "",
+    "cves": [
+      "CVE-2023-49403",
+      "CVE-2023-49999"
+    ],
+    "description": "Tenda W30E Command Injection (CVE-2023-49403; CVE-2023-49999)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "12 Feb 2025",
+    "date_updated": "12 Feb 2025",
+    "checkpoint_reference": "CPAI-2023-1995",
+    "source": "",
+    "cves": [
+      "CVE-2023-6065"
+    ],
+    "description": "WordPress Quttera Web Malware Scanner Plugin Information Disclosure  (CVE-2023-6065)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "11 Feb 2025",
+    "date_updated": "11 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0032",
+    "source": "MicrosoftCVE-2025-21377",
+    "cves": [
+      "CVE-2025-21377"
+    ],
+    "description": "Microsoft Windows NTLM Information Disclosure (CVE-2025-21377)"
+  },
+  {
+    "severity": "High",
+    "date_published": "11 Feb 2025",
+    "date_updated": "11 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0030",
+    "source": "MicrosoftCVE-2025-21400",
+    "cves": [
+      "CVE-2025-21400"
+    ],
+    "description": "Microsoft SharePoint Server Remote Code Execution (CVE-2025-21400)"
+  },
+  {
+    "severity": "High",
+    "date_published": "10 Feb 2025",
+    "date_updated": "10 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1355",
+    "source": "",
+    "cves": [
+      "CVE-2024-55417"
+    ],
+    "description": "PHP Voyager Package Arbitrary File Upload (CVE-2024-55417)"
+  },
+  {
+    "severity": "High",
+    "date_published": "10 Feb 2025",
+    "date_updated": "10 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1302",
+    "source": "",
+    "cves": [
+      "CVE-2024-0778"
+    ],
+    "description": "Uniview ISC 2500-S Command Injection (CVE-2024-0778)"
+  },
+  {
+    "severity": "High",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1363",
+    "source": "",
+    "cves": [
+      "CVE-2024-38653"
+    ],
+    "description": "Ivanti Avalanche XML External Entity Injection (CVE-2024-38653)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1361",
+    "source": "",
+    "cves": [
+      "CVE-2024-45607"
+    ],
+    "description": "Secreto31126 Whatsapp-Api-js Improper Access Control (CVE-2024-45607)"
+  },
+  {
+    "severity": "High",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1353",
+    "source": "",
+    "cves": [
+      "CVE-2024-55416"
+    ],
+    "description": "PHP Voyager Package Cross-Site Scripting (CVE-2024-55416)"
+  },
+  {
+    "severity": "High",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1352",
+    "source": "",
+    "cves": [
+      "CVE-2024-55415"
+    ],
+    "description": "PHP Voyager Package Path Traversal (CVE-2024-55415)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1335",
+    "source": "",
+    "cves": [
+      "CVE-2024-50603"
+    ],
+    "description": "Aviatrix Controller Remote Code Execution (CVE-2024-50603)"
+  },
+  {
+    "severity": "High",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2021-2287",
+    "source": "",
+    "cves": [
+      "CVE-2021-40410"
+    ],
+    "description": "Reolink RLC-410W Firmware Command Injection (CVE-2021-40410)"
+  },
+  {
+    "severity": "High",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2021-2286",
+    "source": "",
+    "cves": [
+      "CVE-2021-40412"
+    ],
+    "description": "Reolink RLC-410W Firmware Command Injection (CVE-2021-40412)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "9 Feb 2025",
+    "date_updated": "9 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1334",
+    "source": "",
+    "cves": [
+      "CVE-2024-43468"
+    ],
+    "description": "Microsoft Configuration Manager Remote Code Execution (CVE-2024-43468)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "6 Feb 2025",
+    "date_updated": "6 Feb 2025",
+    "checkpoint_reference": "CPAI-2018-2892",
+    "source": "",
+    "cves": [
+      "CVE-2018-19410"
+    ],
+    "description": "Paessler PRTG Network Monitor Authentication Bypass (CVE-2018-19410)"
+  },
+  {
+    "severity": "High",
+    "date_published": "6 Feb 2025",
+    "date_updated": "6 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1358",
+    "source": "",
+    "cves": [
+      "CVE-2024-48766"
+    ],
+    "description": "NetAlertX Directory Traversal (CVE-2024-48766)"
+  },
+  {
+    "severity": "High",
+    "date_published": "6 Feb 2025",
+    "date_updated": "6 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1327",
+    "source": "",
+    "cves": [
+      "CVE-2024-28726"
+    ],
+    "description": "D-Link DWR-2000M Command Injection (CVE-2024-28726)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "6 Feb 2025",
+    "date_updated": "6 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0012",
+    "source": "",
+    "cves": [
+      "CVE-2025-22904",
+      "CVE-2025-22907",
+      "CVE-2025-22913",
+      "CVE-2025-22916"
+    ],
+    "description": "EDIMAX RE11S Stack Overflow (CVE-2025-22904; CVE-2025-22907; CVE-2025-22913; CVE-2025-22916)"
+  },
+  {
+    "severity": "High",
+    "date_published": "6 Feb 2025",
+    "date_updated": "6 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1323",
+    "source": "",
+    "cves": [
+      "CVE-2024-45802"
+    ],
+    "description": "Squid Denial of Service (CVE-2024-45802)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "6 Feb 2025",
+    "date_updated": "6 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1321",
+    "source": "",
+    "cves": [
+      "CVE-2024-48914"
+    ],
+    "description": "Vendure Asset Server Plugin Directory Traversal (CVE-2024-48914)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "4 Feb 2025",
+    "date_updated": "4 Feb 2025",
+    "checkpoint_reference": "CPAI-2025-0015",
+    "source": "",
+    "cves": [],
+    "description": "Nagios Enterprises Nagios XI Command Injection"
+  },
+  {
+    "severity": "High",
+    "date_published": "4 Feb 2025",
+    "date_updated": "4 Feb 2025",
+    "checkpoint_reference": "CPAI-2021-2292",
+    "source": "",
+    "cves": [
+      "CVE-2021-41805"
+    ],
+    "description": "HashiCorp Consul Improper Access Control (CVE-2021-41805)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "3 Feb 2025",
+    "date_updated": "3 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1325",
+    "source": "",
+    "cves": [
+      "CVE-2024-11972"
+    ],
+    "description": "WordPress Hunk Companion Plugin Authentication Bypass (CVE-2024-11972)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "3 Feb 2025",
+    "date_updated": "3 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1293",
+    "source": "",
+    "cves": [
+      "CVE-2024-55591"
+    ],
+    "description": "Fortinet Multiple Products Authentication Bypass (CVE-2024-55591)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "2 Feb 2025",
+    "date_updated": "2 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1333",
+    "source": "",
+    "cves": [
+      "CVE-2024-45507"
+    ],
+    "description": "Apache OFBiz Server-Side Request Forgery (CVE-2024-45507)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "2 Feb 2025",
+    "date_updated": "2 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1341",
+    "source": "",
+    "cves": [
+      "CVE-2024-36258"
+    ],
+    "description": "Wavlink AC3000 Authentication Bypass (CVE-2024-36258)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "2 Feb 2025",
+    "date_updated": "2 Feb 2025",
+    "checkpoint_reference": "CPAI-2024-1339",
+    "source": "",
+    "cves": [
+      "CVE-2024-34166"
+    ],
+    "description": "Wavlink AC3000 Command Injection (CVE-2024-34166)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "2 Feb 2025",
+    "date_updated": "2 Feb 2025",
+    "checkpoint_reference": "CPAI-2019-3255",
+    "source": "",
+    "cves": [
+      "CVE-2019-16891"
+    ],
+    "description": "Liferay Portal Insecure Deserialization (CVE-2019-16891)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "29 Jan 2025",
+    "date_updated": "29 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1324",
+    "source": "",
+    "cves": [
+      "CVE-2024-45826"
+    ],
+    "description": "Rockwell Automation ThinManager Directory Traversal (CVE-2024-45826)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "29 Jan 2025",
+    "date_updated": "29 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1322",
+    "source": "",
+    "cves": [
+      "CVE-2024-9234"
+    ],
+    "description": "WordPress Popularis Extra Plugin Arbitrary File Upload (CVE-2024-9932; CVE-2024-9234)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "29 Jan 2025",
+    "date_updated": "29 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1317",
+    "source": "",
+    "cves": [
+      "CVE-2024-4320"
+    ],
+    "description": "LoLLMs WebUI Path Traversal (CVE-2024-4320)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "29 Jan 2025",
+    "date_updated": "29 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1312",
+    "source": "",
+    "cves": [
+      "CVE-2024-57684"
+    ],
+    "description": "D-Link DIR-816 Authentication Bypass (CVE-2024-57684)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "29 Jan 2025",
+    "date_updated": "29 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1291",
+    "source": "",
+    "cves": [
+      "CVE-2024-11773"
+    ],
+    "description": "Ivanti Cloud Services Appliance SQL Injection (CVE-2024-11773)"
+  },
+  {
+    "severity": "High",
+    "date_published": "20 Jan 2025",
+    "date_updated": "28 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1230",
+    "source": "",
+    "cves": [
+      "CVE-2024-47007",
+      "CVE-2024-50317",
+      "CVE-2024-50318",
+      "CVE-2024-50319",
+      "CVE-2024-50321"
+    ],
+    "description": "Ivanti Avalanche Denial of Service (CVE-2024-47007; CVE-2024-50317; CVE-2024-50318; CVE-2024-50319; CVE-2024-50321)"
+  },
+  {
+    "severity": "High",
+    "date_published": "27 Jan 2025",
+    "date_updated": "27 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1316",
+    "source": "",
+    "cves": [
+      "CVE-2024-50326"
+    ],
+    "description": "Ivanti Endpoint Manager SQL Injection (CVE-2024-50326)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "27 Jan 2025",
+    "date_updated": "27 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1292",
+    "source": "",
+    "cves": [
+      "CVE-2024-46909"
+    ],
+    "description": "Progress WhatsUp Gold Remote Code Execution (CVE-2024-46909)"
+  },
+  {
+    "severity": "High",
+    "date_published": "26 Jan 2025",
+    "date_updated": "26 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1313",
+    "source": "",
+    "cves": [
+      "CVE-2024-53457"
+    ],
+    "description": "LibreNMS Stored Cross-Site Scripting (CVE-2024-53457)"
+  },
+  {
+    "severity": "High",
+    "date_published": "26 Jan 2025",
+    "date_updated": "26 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1311",
+    "source": "",
+    "cves": [
+      "CVE-2024-31817"
+    ],
+    "description": "TOTOLINK EX200 Information Disclosure (CVE-2024-31817)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "26 Jan 2025",
+    "date_updated": "26 Jan 2025",
+    "checkpoint_reference": "CPAI-2020-4275",
+    "source": "",
+    "cves": [
+      "CVE-2020-13563"
+    ],
+    "description": "PhpGACL Project PhpGACL Cross-Site Scripting (CVE-2020-13563)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "26 Jan 2025",
+    "date_updated": "26 Jan 2025",
+    "checkpoint_reference": "CPAI-2020-4274",
+    "source": "",
+    "cves": [
+      "CVE-2020-13564"
+    ],
+    "description": "PhpGACL Project PhpGACL Cross-Site Scripting (CVE-2020-13564)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1319",
+    "source": "",
+    "cves": [
+      "CVE-2024-49112"
+    ],
+    "description": "Microsoft Windows LDAP Remote Code Execution (CVE-2024-49112)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1310",
+    "source": "",
+    "cves": [
+      "CVE-2024-52875"
+    ],
+    "description": "GFI Kerio Control CRLF Injection (CVE-2024-52875)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1305",
+    "source": "",
+    "cves": [
+      "CVE-2024-53691"
+    ],
+    "description": "QNAP QTS Remote Code Execution (CVE-2024-53691)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1304",
+    "source": "",
+    "cves": [
+      "CVE-2024-51818"
+    ],
+    "description": "WordPress Fancy Product Designer Plugin SQL Injection (CVE-2024-51818)"
+  },
+  {
+    "severity": "High",
+    "date_published": "17 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1224",
+    "source": "",
+    "cves": [
+      "CVE-2024-49113"
+    ],
+    "description": "Microsoft Windows LDAP Denial of Service (CVE-2024-49113)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1146",
+    "source": "",
+    "cves": [
+      "CVE-2024-8877"
+    ],
+    "description": "Riello NetMan 204 Firmware SQL Injection (CVE-2024-8877)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1307",
+    "source": "",
+    "cves": [
+      "CVE-2024-27292"
+    ],
+    "description": "Docassemble Information Disclosure (CVE-2024-27292)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2025-0009",
+    "source": "",
+    "cves": [
+      "CVE-2025-0107"
+    ],
+    "description": "Palo Alto Networks Expedition Command Injection (CVE-2025-0107)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1295",
+    "source": "",
+    "cves": [
+      "CVE-2024-43452"
+    ],
+    "description": "Microsoft Windows Privilege Escalation (CVE-2024-43452)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1290",
+    "source": "",
+    "cves": [
+      "CVE-2024-34787"
+    ],
+    "description": "Ivanti Endpoint Manager Directory Traversal (CVE-2024-34787)"
+  },
+  {
+    "severity": "High",
+    "date_published": "23 Jan 2025",
+    "date_updated": "23 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1253",
+    "source": "",
+    "cves": [
+      "CVE-2024-11651",
+      "CVE-2024-11652",
+      "CVE-2024-11653",
+      "CVE-2024-11654",
+      "CVE-2024-11655",
+      "CVE-2024-11656",
+      "CVE-2024-11657",
+      "CVE-2024-11658",
+      "CVE-2024-11659"
+    ],
+    "description": "EnGenius Multiple Products Command Injection (CVE-2024-11651; CVE-2024-11652; CVE-2024-11653; CVE-2024-11654; CVE-2024-11655; CVE-2024-11656; CVE-2024-11657; CVE-2024-11658; CVE-2024-11659)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "22 Jan 2025",
+    "date_updated": "22 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1294",
+    "source": "",
+    "cves": [
+      "CVE-2024-11320"
+    ],
+    "description": "Pandora FMS Command Injection (CVE-2024-11320)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "21 Jan 2025",
+    "date_updated": "21 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1996",
+    "source": "",
+    "cves": [
+      "CVE-2023-37754"
+    ],
+    "description": "PowerJob Command Injection (CVE-2023-37754)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "21 Jan 2025",
+    "date_updated": "21 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1994",
+    "source": "",
+    "cves": [
+      "CVE-2023-46347"
+    ],
+    "description": "Ndk Design SQL Injection (CVE-2023-46347)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "21 Jan 2025",
+    "date_updated": "21 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1993",
+    "source": "",
+    "cves": [
+      "CVE-2023-3224"
+    ],
+    "description": "Nuxt Code Injection (CVE-2023-3224)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1246",
+    "source": "",
+    "cves": [
+      "CVE-2024-9932"
+    ],
+    "description": "WordPress Wux Blog Editor Plugin Arbitrary File Upload (CVE-2024-9932)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1985",
+    "source": "",
+    "cves": [
+      "CVE-2023-31446"
+    ],
+    "description": "Cassia Network Gateway Command Injection (CVE-2023-31446)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1239",
+    "source": "",
+    "cves": [
+      "CVE-2024-3552"
+    ],
+    "description": "WordPress SalePHPscripts Web Directory Free Plugin SQL Injection (CVE-2024-3552)"
+  },
+  {
+    "severity": "High",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1238",
+    "source": "",
+    "cves": [
+      "CVE-2024-31621"
+    ],
+    "description": "Flowise Authentication Bypass (CVE-2024-31621)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1121",
+    "source": "",
+    "cves": [
+      "CVE-2024-24942"
+    ],
+    "description": "JetBrains TeamCity Directory Traversal (CVE-2024-24942)"
+  },
+  {
+    "severity": "High",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2007-0499",
+    "source": "",
+    "cves": [
+      "CVE-2007-3175"
+    ],
+    "description": "W2B Online Banking SQL Injection (CVE-2007-3175)"
+  },
+  {
+    "severity": "High",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1501",
+    "source": "",
+    "cves": [
+      "CVE-2023-50223"
+    ],
+    "description": "Inductive Automation Ignition Insecure Deserialization (CVE-2023-50223)"
+  },
+  {
+    "severity": "High",
+    "date_published": "20 Jan 2025",
+    "date_updated": "20 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1462",
+    "source": "",
+    "cves": [
+      "CVE-2023-51572"
+    ],
+    "description": "Voltronic Power ViewPower Pro Command Injection (CVE-2023-51572)"
+  },
+  {
+    "severity": "High",
+    "date_published": "19 Jan 2025",
+    "date_updated": "19 Jan 2025",
+    "checkpoint_reference": "CPAI-2021-2281",
+    "source": "",
+    "cves": [
+      "CVE-2021-33959"
+    ],
+    "description": "Plex Media Server Distributed Denial of Service (CVE-2021-33959)"
+  },
+  {
+    "severity": "High",
+    "date_published": "16 Jan 2025",
+    "date_updated": "16 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1250",
+    "source": "",
+    "cves": [
+      "CVE-2024-43464"
+    ],
+    "description": "Microsoft SharePoint Server Remote Code Execution (CVE-2024-43464)"
+  },
+  {
+    "severity": "High",
+    "date_published": "16 Jan 2025",
+    "date_updated": "16 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1243",
+    "source": "",
+    "cves": [
+      "CVE-2024-25723"
+    ],
+    "description": "ZenML Server Privilege Escalation (CVE-2024-25723)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "16 Jan 2025",
+    "date_updated": "16 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1242",
+    "source": "",
+    "cves": [
+      "CVE-2024-0881"
+    ],
+    "description": "WordPress Combo Blocks Plugin Authentication Bypass (CVE-2024-0881)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "16 Jan 2025",
+    "date_updated": "16 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1983",
+    "source": "",
+    "cves": [
+      "CVE-2023-4521"
+    ],
+    "description": "WordPress Moove Import XML and RSS Feeds Plugin Remote Code Execution (CVE-2023-4521)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "16 Jan 2025",
+    "date_updated": "16 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1231",
+    "source": "",
+    "cves": [
+      "CVE-2024-8856"
+    ],
+    "description": "WordPress Time Capsule Plugin Remote Code Execution (CVE-2024-8856)"
+  },
+  {
+    "severity": "High",
+    "date_published": "16 Jan 2025",
+    "date_updated": "16 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1227",
+    "source": "",
+    "cves": [
+      "CVE-2024-21182"
+    ],
+    "description": "Oracle WebLogic Server Remote Code Execution (CVE-2024-21182)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "16 Jan 2025",
+    "date_updated": "16 Jan 2025",
+    "checkpoint_reference": "CPAI-2016-1270",
+    "source": "",
+    "cves": [
+      "CVE-2016-8652"
+    ],
+    "description": "Dovecot Denial of Service (CVE-2016-8652)"
+  },
+  {
+    "severity": "High",
+    "date_published": "15 Jan 2025",
+    "date_updated": "15 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1241",
+    "source": "",
+    "cves": [
+      "CVE-2024-54819"
+    ],
+    "description": "I Librarian Server-Side Request Forgery (CVE-2024-54819)"
+  },
+  {
+    "severity": "High",
+    "date_published": "15 Jan 2025",
+    "date_updated": "15 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1235",
+    "source": "",
+    "cves": [
+      "CVE-2024-2805",
+      "CVE-2024-2806",
+      "CVE-2024-2807",
+      "CVE-2024-2808",
+      "CVE-2024-2809",
+      "CVE-2024-2810",
+      "CVE-2024-2811",
+      "CVE-2024-2813",
+      "CVE-2024-2814"
+    ],
+    "description": "Tenda AC15 Buffer Overflow (CVE-2024-2805; CVE-2024-2806; CVE-2024-2807; CVE-2024-2808; CVE-2024-2809; CVE-2024-2810; CVE-2024-2811; CVE-2024-2813; CVE-2024-2814)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "15 Jan 2025",
+    "date_updated": "15 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1233",
+    "source": "",
+    "cves": [
+      "CVE-2024-12343"
+    ],
+    "description": "TP-Link VN020 F3v Buffer Overflow (CVE-2024-12343)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "15 Jan 2025",
+    "date_updated": "15 Jan 2025",
+    "checkpoint_reference": "CPAI-2021-2280",
+    "source": "",
+    "cves": [
+      "CVE-2021-24202",
+      "CVE-2021-24203"
+    ],
+    "description": "WordPress Elementor Website Builder Plugin Cross-Site Scripting (CVE-2021-24202; CVE-2021-24203)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "15 Jan 2025",
+    "date_updated": "15 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1979",
+    "source": "",
+    "cves": [
+      "CVE-2023-2227"
+    ],
+    "description": "Modoboa Information Disclosure (CVE-2023-2227)"
+  },
+  {
+    "severity": "High",
+    "date_published": "15 Jan 2025",
+    "date_updated": "15 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1102",
+    "source": "",
+    "cves": [
+      "CVE-2024-10387"
+    ],
+    "description": "Rockwell Automation ThinManager ThinServer Out-Of-Bounds Read (CVE-2024-10387)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "15 Jan 2025",
+    "date_updated": "15 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1081",
+    "source": "",
+    "cves": [
+      "CVE-2024-10386"
+    ],
+    "description": "Rockwell Automation ThinManager Authentication Bypass (CVE-2024-10386)"
+  },
+  {
+    "severity": "High",
+    "date_published": "14 Jan 2025",
+    "date_updated": "14 Jan 2025",
+    "checkpoint_reference": "CPAI-2025-0003",
+    "source": "MicrosoftCVE-2025-21309",
+    "cves": [
+      "CVE-2025-21309"
+    ],
+    "description": "Microsoft Windows Remote Desktop Services Remote Code Execution (CVE-2025-21309)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "13 Jan 2025",
+    "date_updated": "13 Jan 2025",
+    "checkpoint_reference": "CPAI-2025-0002",
+    "source": "",
+    "cves": [
+      "CVE-2025-0282"
+    ],
+    "description": "Ivanti Buffer Overflow (CVE-2025-0282)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "13 Jan 2025",
+    "date_updated": "13 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1244",
+    "source": "",
+    "cves": [
+      "CVE-2024-43364"
+    ],
+    "description": "Cacti Cross-Site Scripting (CVE-2024-43364)"
+  },
+  {
+    "severity": "High",
+    "date_published": "13 Jan 2025",
+    "date_updated": "13 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1234",
+    "source": "",
+    "cves": [
+      "CVE-2024-13129"
+    ],
+    "description": "Roxy-WI Command Injection (CVE-2024-13129)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "13 Jan 2025",
+    "date_updated": "13 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1226",
+    "source": "",
+    "cves": [
+      "CVE-2024-10456"
+    ],
+    "description": "Delta Electronics InfraSuite Device Master Insecure Deserialization (CVE-2024-10456)"
+  },
+  {
+    "severity": "High",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1984",
+    "source": "",
+    "cves": [
+      "CVE-2023-5003"
+    ],
+    "description": "Active Directory / LDAP Integration WordPress Plugin Information Disclosure (CVE-2023-5003)"
+  },
+  {
+    "severity": "High",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1981",
+    "source": "",
+    "cves": [
+      "CVE-2023-20888"
+    ],
+    "description": "VMware VRealize Network Insight Insecure Deserialization (CVE-2023-20888)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1228",
+    "source": "",
+    "cves": [
+      "CVE-2024-2340"
+    ],
+    "description": "Avada Information Disclosure (CVE-2024-2340)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1188",
+    "source": "",
+    "cves": [
+      "CVE-2024-5458"
+    ],
+    "description": "PHP Authentication Bypass (CVE-2024-5458)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1170",
+    "source": "",
+    "cves": [
+      "CVE-2024-54003"
+    ],
+    "description": "Jenkins Simple Queue Plugin Cross-Site Scripting (CVE-2024-54003)"
+  },
+  {
+    "severity": "High",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1245",
+    "source": "",
+    "cves": [
+      "CVE-2024-12105"
+    ],
+    "description": "Progress WhatsUp Gold Path Traversal (CVE-2024-12105)"
+  },
+  {
+    "severity": "High",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1237",
+    "source": "",
+    "cves": [
+      "CVE-2024-32848"
+    ],
+    "description": "Ivanti Endpoint Manager SQL Injection (CVE-2024-32848)"
+  },
+  {
+    "severity": "High",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1229",
+    "source": "",
+    "cves": [
+      "CVE-2024-34779"
+    ],
+    "description": "Ivanti Endpoint Manager SQL Injection (CVE-2024-34779)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1221",
+    "source": "",
+    "cves": [
+      "CVE-2024-47855"
+    ],
+    "description": "Jenkins Denial of Service (CVE-2024-47855)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "12 Jan 2025",
+    "date_updated": "12 Jan 2025",
+    "checkpoint_reference": "CPAI-2022-2161",
+    "source": "",
+    "cves": [
+      "CVE-2022-2856"
+    ],
+    "description": "Google Chrome Open Redirect (CVE-2022-2856)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "9 Jan 2025",
+    "date_updated": "9 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1982",
+    "source": "",
+    "cves": [
+      "CVE-2023-34563"
+    ],
+    "description": "NETGEAR R6250 Buffer Overflow (CVE-2023-34563)"
+  },
+  {
+    "severity": "High",
+    "date_published": "7 Jan 2025",
+    "date_updated": "7 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1225",
+    "source": "",
+    "cves": [
+      "CVE-2024-9122"
+    ],
+    "description": "Google Chrome V8 Type Confusion (CVE-2024-9122)"
+  },
+  {
+    "severity": "High",
+    "date_published": "7 Jan 2025",
+    "date_updated": "7 Jan 2025",
+    "checkpoint_reference": "CPAI-2017-1948",
+    "source": "",
+    "cves": [
+      "CVE-2017-16651"
+    ],
+    "description": "RoundCube Webmail Local File Inclusion (CVE-2017-16651)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "7 Jan 2025",
+    "date_updated": "7 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1200",
+    "source": "",
+    "cves": [
+      "CVE-2024-40725"
+    ],
+    "description": "HTTP Requests Smuggling (CVE-2024-40725)"
+  },
+  {
+    "severity": "High",
+    "date_published": "7 Jan 2025",
+    "date_updated": "7 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1182",
+    "source": "",
+    "cves": [],
+    "description": "Microsoft SQL Server Management Studio Brute Force Login Attempt"
+  },
+  {
+    "severity": "High",
+    "date_published": "6 Jan 2025",
+    "date_updated": "6 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1218",
+    "source": "",
+    "cves": [
+      "CVE-2024-12987"
+    ],
+    "description": "DrayTek Vigor Command Injection (CVE-2024-12987)"
+  },
+  {
+    "severity": "High",
+    "date_published": "6 Jan 2025",
+    "date_updated": "6 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-0848",
+    "source": "",
+    "cves": [
+      "CVE-2024-8124"
+    ],
+    "description": "GitLab Denial-of-Service (CVE-2024-8124)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "6 Jan 2025",
+    "date_updated": "6 Jan 2025",
+    "checkpoint_reference": "CPAI-2018-2875",
+    "source": "",
+    "cves": [
+      "CVE-2018-17532"
+    ],
+    "description": "Teltonika RUT9XX Command Injection (CVE-2018-17532)"
+  },
+  {
+    "severity": "High",
+    "date_published": "5 Jan 2025",
+    "date_updated": "5 Jan 2025",
+    "checkpoint_reference": "CPAI-2018-2871",
+    "source": "",
+    "cves": [
+      "CVE-2018-7777"
+    ],
+    "description": "Schneider Electric U.motion Builder Command Injection (CVE-2018-7777)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "5 Jan 2025",
+    "date_updated": "5 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1214",
+    "source": "",
+    "cves": [
+      "CVE-2024-50320"
+    ],
+    "description": "Ivanti Avalanche Denial of Service (CVE-2024-50320)"
+  },
+  {
+    "severity": "High",
+    "date_published": "5 Jan 2025",
+    "date_updated": "5 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1455",
+    "source": "",
+    "cves": [
+      "CVE-2023-46262"
+    ],
+    "description": "Ivanti Avalanche Server-Side Request Forgery (CVE-2023-46262)"
+  },
+  {
+    "severity": "High",
+    "date_published": "5 Jan 2025",
+    "date_updated": "5 Jan 2025",
+    "checkpoint_reference": "CPAI-2021-1767",
+    "source": "",
+    "cves": [
+      "CVE-2021-35519"
+    ],
+    "description": "SmarterTools SmarterMail Cross-Site Scripting (CVE-2021-35519)"
+  },
+  {
+    "severity": "High",
+    "date_published": "5 Jan 2025",
+    "date_updated": "5 Jan 2025",
+    "checkpoint_reference": "CPAI-2021-1762",
+    "source": "",
+    "cves": [
+      "CVE-2021-22718"
+    ],
+    "description": "Schneider Electric C-Bus Toolkit Directory Traversal (CVE-2021-22718)"
+  },
+  {
+    "severity": "High",
+    "date_published": "2 Jan 2025",
+    "date_updated": "2 Jan 2025",
+    "checkpoint_reference": "CPAI-2014-2630",
+    "source": "",
+    "cves": [
+      "CVE-2014-6324"
+    ],
+    "description": "Microsoft Windows Kerberos Key Distribution Center Privilege Escalation (CVE-2014-6324)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1977",
+    "source": "",
+    "cves": [
+      "CVE-2023-41266"
+    ],
+    "description": "Qlik Sense Directory Traversal (CVE-2023-41266)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1970",
+    "source": "",
+    "cves": [
+      "CVE-2023-24488"
+    ],
+    "description": "Citrix Gateway Cross-Site Scripting (CVE-2023-24488)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2020-4264",
+    "source": "",
+    "cves": [
+      "CVE-2020-27130"
+    ],
+    "description": "Cisco Security Manager Directory Traversal (CVE-2020-27130)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2020-4254",
+    "source": "",
+    "cves": [
+      "CVE-2020-8656"
+    ],
+    "description": "EyesOfNetwork SQL Injection (CVE-2020-8656)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1207",
+    "source": "",
+    "cves": [
+      "CVE-2024-44625"
+    ],
+    "description": "Gogs Directory Traversal (CVE-2024-44625)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2020-4229",
+    "source": "",
+    "cves": [
+      "CVE-2020-9465"
+    ],
+    "description": "EyesOfNetwork SQL Injection (CVE-2020-9465)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2021-2236",
+    "source": "",
+    "cves": [
+      "CVE-2021-34991"
+    ],
+    "description": "NETGEAR EX3700 Firmware Remote Code Execution (CVE-2021-34991)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2020-4222",
+    "source": "",
+    "cves": [
+      "CVE-2020-8958"
+    ],
+    "description": "GPONONU 1GE Router WiFi ONU V2801RW Firmware Command Injection (CVE-2020-8958)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1196",
+    "source": "",
+    "cves": [
+      "CVE-2024-34783"
+    ],
+    "description": "Ivanti Endpoint Manager SQL Injection (CVE-2024-34783)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1192",
+    "source": "",
+    "cves": [
+      "CVE-2024-29671"
+    ],
+    "description": "NEXTU FLATA AX1500 Buffer Overflow (CVE-2024-29671)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1950",
+    "source": "",
+    "cves": [
+      "CVE-2023-1162"
+    ],
+    "description": "DrayTek Vigor 2960 Firmware Command Injection (CVE-2023-1162)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1949",
+    "source": "",
+    "cves": [
+      "CVE-2023-24229"
+    ],
+    "description": "Draytek Vigor2960 Firmware Command Injection (CVE-2023-24229)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1161",
+    "source": "",
+    "cves": [
+      "CVE-2024-0507"
+    ],
+    "description": "GitHub Enterprise Server Privilege Escalation (CVE-2024-0507)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1134",
+    "source": "",
+    "cves": [
+      "CVE-2024-8672"
+    ],
+    "description": "WordPress Widget Options Plugin Command Injection (CVE-2024-8672)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1096",
+    "source": "",
+    "cves": [
+      "CVE-2024-43362"
+    ],
+    "description": "Cacti Cross-Site Scripting (CVE-2024-43362)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-1088",
+    "source": "",
+    "cves": [
+      "CVE-2024-41163"
+    ],
+    "description": "Veertu Anka Build Cloud Directory Traversal (CVE-2024-41163)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2022-2144",
+    "source": "",
+    "cves": [
+      "CVE-2022-45699"
+    ],
+    "description": "APsystems ECU-R Firmware Command Injection (CVE-2022-45699)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-0735",
+    "source": "",
+    "cves": [
+      "CVE-2024-5008"
+    ],
+    "description": "Progress WhatsUp Gold Information Disclosure (CVE-2024-5008)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-0638",
+    "source": "",
+    "cves": [
+      "CVE-2024-6497"
+    ],
+    "description": "WordPress Project SEO Plugin SQL Injection (CVE-2024-6497)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-0629",
+    "source": "",
+    "cves": [
+      "CVE-2024-5011"
+    ],
+    "description": "Progress WhatsUp Gold Denial of Service (CVE-2024-5011)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2024-0195",
+    "source": "",
+    "cves": [
+      "CVE-2024-27921"
+    ],
+    "description": "Grav CMS Directory Traversal (CVE-2024-27921)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-1573",
+    "source": "",
+    "cves": [
+      "CVE-2023-6933"
+    ],
+    "description": "WordPress WPEngine Better Search Replace Plugin Insecure Deserialization (CVE-2023-6933)"
+  },
+  {
+    "severity": "High",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2022-2021",
+    "source": "",
+    "cves": [
+      "CVE-2022-27643"
+    ],
+    "description": "NETGEAR R6400 Firmware Remote Code Execution (CVE-2022-27643)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2022-1733",
+    "source": "",
+    "cves": [
+      "CVE-2022-46870"
+    ],
+    "description": "Apache Zeppelin Cross-Site Scripting (CVE-2022-46870)"
+  },
+  {
+    "severity": "Critical",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-0581",
+    "source": "",
+    "cves": [
+      "CVE-2023-36808"
+    ],
+    "description": "GLPI-Project GLPI SQL Injection (CVE-2023-36808)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2023-0488",
+    "source": "",
+    "cves": [
+      "CVE-2023-34220"
+    ],
+    "description": "JetBrains TeamCity Cross-Site Scripting (CVE-2023-34220)"
+  },
+  {
+    "severity": "Medium",
+    "date_published": "1 Jan 2025",
+    "date_updated": "1 Jan 2025",
+    "checkpoint_reference": "CPAI-2022-1609",
+    "source": "",
+    "cves": [
+      "CVE-2022-46768"
+    ],
+    "description": "Zabbix Multiple Products Arbitrary File Read (CVE-2022-46768)"
+  }
+]
