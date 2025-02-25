@@ -1,6 +1,6 @@
 ## Check Point Advisories to JSON Format
 
-### THis project includes two example scripts. The goal is to scap the list of IPS advisories from https://advisories.checkpoint.com/advisories/ and export the list of CVEs to a json format.
+### This project includes two example scripts. The goal is to scap the list of IPS advisories from https://advisories.checkpoint.com/advisories/ and export the list of CVEs to a json format.
 
 #### THe first script uses the BeautifulSoup pythin library. However the challenge comes from human identificaton protection used by Check Point to prevent unwanted scaping by bots.
 
