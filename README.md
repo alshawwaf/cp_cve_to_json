@@ -51,6 +51,9 @@ python scrape_selenium.py
 ```
 
 * A browser window will open.
+
+![alt text](https://github.com/alshawwaf/cp_cve_to_json/blob/main/assets/advisories_scrap.jpg)
+ 
 * Complete any verification prompts (CAPTCHA, “I’m not a robot,” etc.).
 * The script will then scrape all advisories and export a JSON file containing the CVEs.
 
