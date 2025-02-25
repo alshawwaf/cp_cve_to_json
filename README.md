@@ -48,10 +48,12 @@ If blocked, the script will likely fail to retrieve full data.
 
 ```bash
 python scrape_selenium.py
-A browser window will open.
-Complete any verification prompts (CAPTCHA, “I’m not a robot,” etc.).
-The script will then scrape all advisories and export a JSON file containing the CVEs.
 ```
+
+* A browser window will open.
+* Complete any verification prompts (CAPTCHA, “I’m not a robot,” etc.).
+* The script will then scrape all advisories and export a JSON file containing the CVEs.
+
 
 ## Contributing
 1. Fork this repository.
