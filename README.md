@@ -22,11 +22,13 @@ This repository demonstrates **two** approaches to scraping [Check Point’s adv
 ## Setup & Usage
 
 1. **Clone the repo**:
-   ```bash
+   
+```bash
    git clone https://github.com/YourUser/your-repo.git
    cd your-repo
+```
 
-2. **Install dependencies (for both scripts)**:
+3. **Install dependencies (for both scripts)**:
 
 ```bash
 # For BeautifulSoup script
